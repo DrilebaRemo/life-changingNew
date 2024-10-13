@@ -296,8 +296,8 @@ textarea {
 
 .form-row2 .form-grou2p:last-child {
     margin-right: 0;
-}
-*/
+}*/
+
 .form-wrapper {
     margin: 50px auto 0;
     width: 90%;
@@ -445,7 +445,6 @@ input[type="submit"]:hover {
         width: 100%;
     }
 }
-
 /*label{
     display: block;
     color: #f0f8ff;
